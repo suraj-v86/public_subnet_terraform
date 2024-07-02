@@ -1,0 +1,8 @@
+ami_id="ami-04b70fa74e45c3917"
+instance_ID_value = "t2.micro"
+key_value = "aws_login"
+cidr_vpc = "10.0.0.0/16"
+zone1 = "us-east-1a"
+zone2 = "us-east-1b"
+cidr_sub1 = "10.0.0.0/24"
+cidr_sub2 = "10.0.1.0/24"
