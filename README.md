@@ -1,0 +1,1 @@
+It contains the details source code about creating vpc, public subnets in multiple zones, ec2 instance in both subnets, internet gateway, security group, route table, route table association, load balancer etc.
